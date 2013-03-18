@@ -87,7 +87,8 @@ Open bundles.php
 ```php
    'shellwrap'    => array(
         auto        => true
-    )```
+    )
+```
 
 Acknowledgements
 --------------------

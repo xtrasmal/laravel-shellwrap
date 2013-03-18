@@ -1,4 +1,4 @@
-ShellWrap
+Laravel ShellWrap
 ==================
 
 What is it?
@@ -83,11 +83,11 @@ Install
 	php artisan bundle:install shellwrap
 ```
 Open bundles.php
-``php
+
+```php
    'shellwrap'    => array(
         auto        => true
-    )
-```
+    )```
 
 Acknowledgements
 --------------------
